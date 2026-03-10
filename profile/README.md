@@ -1,6 +1,7 @@
 # 🏎️ Assetto Corsa CN Hub (ACCH)
 
 **为中国赛车模拟器玩家打造最丝滑的中文资源与导航生态。**
+创始人 Weivi https://space.bilibili.com/4028423(https://space.bilibili.com/4028423)
 
 ---
 
@@ -10,7 +11,6 @@
 ---
 
 ## 🛠️ 我们的项目 (Project Matrix)
-创始人 Weivi https://space.bilibili.com/4028423(https://space.bilibili.com/4028423)
 
 | 项目名称 | 描述 | 状态 |
 | :--- | :--- | :--- |
